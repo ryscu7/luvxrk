@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayrun</h1>
 <h3 align="center">A guy who loves coding as a hobby</h3>
 
-- 🔭 I’m currently working on [Gson](https://github.com/itzAyrun/gson)
+- 🔭 I’m currently working on [Gson](https://github.com/itzAyrun/gson) and [Mello](https://github.com/itzAyrun/mello)
 
 - 🌱 I’m currently learning **Go**
 
