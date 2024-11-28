@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://yuna0x0.com">Ayrun</a>!</h1>
+<h1 align="center">Hi, I'm <b>Ayrun</b>!</h1>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 
 <p align="center">❤ I'm currently trying to learn new languages and build free and open source software/tools.</p>
