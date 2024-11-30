@@ -1,5 +1,11 @@
 <p align="center">
   <a href="">
+    <img src="https://camo.githubusercontent.com/131cd9a83e36c47b6cbb6424e2e9145041724ef7b4c800450768c644b74aad17/68747470733a2f2f692e6962622e636f2f543063683966472f7070322e706e67" alt="Banner">
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
     <img src="https://c.tenor.com/cpbAghe4zlMAAAAd/tenor.gif" alt="Banner">
   </a>
 </p>
