@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://c.tenor.com/cpbAghe4zlMAAAAd/tenor.gif" alt="Banner">
+    <img src="https://i.pinimg.com/originals/ba/3c/50/ba3c505577a51ae129d55361f442fbaf.gif" alt="Banner">
   </a>
 </p>
 
