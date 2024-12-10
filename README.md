@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="https://camo.githubusercontent.com/131cd9a83e36c47b6cbb6424e2e9145041724ef7b4c800450768c644b74aad17/68747470733a2f2f692e6962622e636f2f543063683966472f7070322e706e67" alt="Banner">
+    <img src="https://i.pinimg.com/originals/ba/3c/50/ba3c505577a51ae129d55361f442fbaf.gif" alt="Banner">
   </a>
 </p>
 
