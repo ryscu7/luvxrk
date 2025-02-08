@@ -1,42 +1,30 @@
-<p align="center">
-  <a href="">
-    <img src="https://camo.githubusercontent.com/131cd9a83e36c47b6cbb6424e2e9145041724ef7b4c800450768c644b74aad17/68747470733a2f2f692e6962622e636f2f543063683966472f7070322e706e67" alt="Banner">
-  </a>
-</p>
+# itzAyrun
 
-<p align="center">
-  <a href="">
-    <img src="https://i.pinimg.com/originals/ba/3c/50/ba3c505577a51ae129d55361f442fbaf.gif" alt="Banner">
-  </a>
-</p>
+Hi, my name is Dhruv. I'm an Indian student and programmer( just for fun! )
 
-<h1 align="center">Hi, I'm <b>Ayrun</b>!</h1>
+<div align="center">
+<a href="https://github.com/itzAyrun/dotfiles">
+  <img src="./fastfetch.png" />
+</a>
+</div>
 
-<p align="center">I'm currently trying to learn new languages and build free and open source software/tools</p>
+## Interests
 
-<!-- <p align="center">
-  <strong><a href="https://yuna0x0.com">Website</a></strong> |
-  <strong><a href="https://x.com/yunaNULL">Twitter</a></strong> |
-  <strong><a href="https://bsky.app/profile/yuna0x0.com">Bluesky</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
-</p> -->
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Neovim-color?style=for-the-badge&logo=Neovim&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
+  <img src="https://img.shields.io/badge/Go-color?style=for-the-badge&logo=go&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
+  <img src="https://img.shields.io/badge/Endeavour OS-color?style=for-the-badge&logo=endeavouros&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
+  <img src="https://img.shields.io/badge/i3-color?style=for-the-badge&logo=i3&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
+  <img src="https://img.shields.io/badge/Alacritty-color?style=for-the-badge&logo=alacritty&logoColor=%23eb6f92&logoSize=auto&labelColor=%23191724&color=%23eb6f92" height="35" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/itzAyrun"><img src="https://github-readme-stats.vercel.app/api?username=itzAyrun&hide_border=true&show_icons=true" alt="Ayrun's github stats"></a>
-</p>
+## Stats
 
-<!--
-**yuna0x0/yuna0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 alt="Readme Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=itzAyrun&theme=rose_pine&title_color=eb6f92&border_color=eb6f92" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 alt="Readme Stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzAyrun&layout=compact&langs_count=8&card_width=320&theme=rose_pine&title_color=eb6f92&border_color=eb6f92" /></a>
+
+</div>
