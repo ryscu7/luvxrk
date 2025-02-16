@@ -1,9 +1,9 @@
-# Ayrun
+# Welcome
 
 Hi, my name is Dhruv. I'm an Indian student and programmer( just for fun! )
 
 <div align="center">
-<a href="https://github.com/itzAyrun/dotfiles">
+<a href="https://github.com/luvxrk/dotfiles">
   <img src="./fastfetch.png" />
 </a>
 </div>
@@ -23,8 +23,8 @@ Hi, my name is Dhruv. I'm an Indian student and programmer( just for fun! )
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 alt="Readme Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=notAyrun&theme=rose_pine&title_color=eb6f92&border_color=eb6f92" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 alt="Readme Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=luvxrk&theme=rose_pine&title_color=eb6f92&border_color=eb6f92" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 alt="Readme Stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notAyrun&layout=compact&langs_count=8&card_width=320&theme=rose_pine&title_color=eb6f92&border_color=eb6f92" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 alt="Readme Stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luvxrk&layout=compact&langs_count=8&card_width=320&theme=rose_pine&title_color=eb6f92&border_color=eb6f92" /></a>
 
 </div>
