@@ -1,4 +1,4 @@
-# itzAyrun
+# Ayrun
 
 Hi, my name is Dhruv. I'm an Indian student and programmer( just for fun! )
 
