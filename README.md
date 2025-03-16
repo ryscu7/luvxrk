@@ -1,4 +1,4 @@
-An Indian student and programmer( just for fun :D )
+## An Indian student and programmer( just for fun :D )
 
 <div align="center">
 <a href="https://github.com/ryscu7/dotfiles">
